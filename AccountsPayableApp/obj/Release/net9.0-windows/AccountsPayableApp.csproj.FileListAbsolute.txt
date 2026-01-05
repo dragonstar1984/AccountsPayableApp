@@ -1,0 +1,201 @@
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.exe
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.deps.json
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.runtimeconfig.json
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.pdb
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Azure.Core.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Azure.Identity.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.CommonProtos.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.Gax.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.Auth.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.Core.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.Storage.v1.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Firestore.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Location.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Storage.V1.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.LongRunning.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Protobuf.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Auth.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Core.Api.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Net.Client.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Net.Common.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.ClientModel.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Linq.Async.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Management.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Memory.Data.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.csproj.AssemblyReference.cache
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Form1.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.AddEntryForm.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.AddPaymentForm.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.DashboardForm.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.LoginForm.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.PaymentListForm.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.LedgerSelectionForm.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Properties.Resources.resources
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.csproj.GenerateResource.cache
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.AssemblyInfoInputs.cache
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.AssemblyInfo.cs
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.csproj.CoreCompileInputs.cache
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\Accounts.4A9F4C0D.Up2Date
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\refint\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.pdb
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.genruntimeconfig.cache
+C:\Users\stoea\Documents\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\ref\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.csproj.AssemblyReference.cache
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Form1.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.AddEntryForm.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.AddPaymentForm.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.DashboardForm.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.LoginForm.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.PaymentListForm.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Forms.LedgerSelectionForm.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.Properties.Resources.resources
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.csproj.GenerateResource.cache
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.AssemblyInfoInputs.cache
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.AssemblyInfo.cs
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.csproj.CoreCompileInputs.cache
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\refint\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.pdb
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.exe
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.deps.json
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.runtimeconfig.json
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.pdb
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Azure.Core.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Azure.Identity.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.CommonProtos.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.Gax.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.Auth.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.Core.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Apis.Storage.v1.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Firestore.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Location.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Cloud.Storage.V1.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.LongRunning.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Google.Protobuf.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Auth.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Core.Api.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Net.Client.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Grpc.Net.Common.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Identity.Client.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.ClientModel.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Linq.Async.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Management.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Memory.Data.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\Accounts.4A9F4C0D.Up2Date
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\AccountsPayableApp.genruntimeconfig.cache
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\obj\Release\net9.0-windows\ref\AccountsPayableApp.dll
+C:\Users\stoea\Documents\AccountsPayableApp for revision\AccountsPayable_SourceFiles\AccountsPayableApp\bin\Release\net9.0-windows\AccountsPayableApp.dll.config

@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\helpers\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\helpers\\firestoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\data\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\data\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\ledgerselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\ledgerselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\ledgerselectionform.designer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\ledgerselectionform.designer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\accountspayableapp\\ledgerselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\ledgerselectionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\accountspayableapp\\forms\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\addpaymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\paymentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\paymentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\accountspayableapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\addpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\addpaymentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\accountspayableapp\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\firebaseauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\forms\\addentryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\addentryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\models\\ledgerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\models\\ledgerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\models\\payableentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\models\\payableentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\models\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\models\\ledger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\helpers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\helpers\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\accountspayableapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|c:\\users\\stoea\\documents\\accountspayableapp for revision\\accountspayable_sourcefiles\\accountspayableapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{0B8E4AC0-23C2-449D-8449-E2058F6F4754}|AccountsPayableApp\\AccountsPayableApp.csproj|solutionrelative:accountspayableapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LedgerSelectionForm.Designer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LedgerSelectionForm.Designer.Designer.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\LedgerSelectionForm.Designer.Designer.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LedgerSelectionForm.Designer.Designer.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\LedgerSelectionForm.Designer.Designer.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwHcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T14:03:42.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Form1.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Form1.cs [Design]",
+              "RelativeToolTip": "AccountsPayableApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:24:20.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\README.md",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\README.md",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\README.md",
+              "RelativeToolTip": "AccountsPayableApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-02T06:37:24.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:22:19.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddPaymentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddPaymentForm.Designer.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\AddPaymentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddPaymentForm.Designer.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\AddPaymentForm.Designer.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwHIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:17:03.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:44:18.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAJIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:44:04.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:43:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentListForm.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\PaymentListForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\PaymentListForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\PaymentListForm.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\PaymentListForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:15:49.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddPaymentForm.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddPaymentForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\AddPaymentForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddPaymentForm.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\AddPaymentForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:08:32.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirestoreService.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Helpers\\FirestoreService.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Helpers\\FirestoreService.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Helpers\\FirestoreService.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Helpers\\FirestoreService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:50:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirebaseAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\FirebaseAuthService.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\FirebaseAuthService.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\FirebaseAuthService.cs",
+              "RelativeToolTip": "AccountsPayableApp\\FirebaseAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:41:08.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:32:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddEntryForm.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddEntryForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\AddEntryForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddEntryForm.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\AddEntryForm.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAALYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:03:41.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LedgerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\LedgerDetail.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Models\\LedgerDetail.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\LedgerDetail.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Models\\LedgerDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:26:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LedgerSelectionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\LedgerSelectionForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\LedgerSelectionForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\LedgerSelectionForm.cs [Design]",
+              "RelativeToolTip": "AccountsPayableApp\\LedgerSelectionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:36:26.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LedgerSelectionForm.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\LedgerSelectionForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\LedgerSelectionForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\LedgerSelectionForm.cs",
+              "RelativeToolTip": "AccountsPayableApp\\LedgerSelectionForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAADwv5oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T08:10:50.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Data\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Data\\FirebaseService.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Data\\FirebaseService.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Data\\FirebaseService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vw4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T07:55:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Program.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Program.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Program.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:32:04.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Form1.Designer.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:47.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\Payment.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:39.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PayableEntry.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\PayableEntry.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Models\\PayableEntry.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\PayableEntry.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Models\\PayableEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:35.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ledger.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\Ledger.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Models\\Ledger.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Models\\Ledger.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Models\\Ledger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:27.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Helpers\\SessionManager.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Helpers\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Helpers\\SessionManager.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Helpers\\SessionManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:18.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:13.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPaymentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddPaymentForm.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Forms\\AddPaymentForm.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Forms\\AddPaymentForm.cs [Design]",
+              "RelativeToolTip": "AccountsPayableApp\\Forms\\AddPaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:30:52.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "AccountsPayableApp\\Data\\Database.cs",
+              "ToolTip": "C:\\Users\\stoea\\Documents\\AccountsPayableApp for revision\\AccountsPayable_SourceFiles\\AccountsPayableApp\\Data\\Database.cs",
+              "RelativeToolTip": "AccountsPayableApp\\Data\\Database.cs",
+              "ViewState": "AgIAAJ8BAAAAAAAAAAAiwKwBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:30:37.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
